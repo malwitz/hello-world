@@ -1,2 +1,3 @@
 # hello-world
-All the things
+Hello internets,
+Look at these git skills!
